@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        Kairisei MA Wiki - Add Current Time zone
-// @namespace   test
-// @include     http://wiki.famitsu.com/kairi/
-// @version     16.10.10.0
+// @namespace   https://github.com/lcy0321
+// @match       *://wiki.famitsu.com/kairi/
+// @version     16.10.10.1
 // @description Add a '台灣時間' column and mark the current time
 // @grant       none
 // ==/UserScript==
